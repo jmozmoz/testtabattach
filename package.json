@@ -1,0 +1,13 @@
+{
+  "title": "Test Tab Attach",
+  "name": "testtab",
+  "version": "0.0.0",
+  "description": "Test tab.attach",
+  "main": "index.js",
+  "author": "jmozmoz",
+  "engines": {
+    "firefox": ">=33.0a1",
+    "fennec": ">=33.0a1"
+  },
+  "license": "GPLv3"
+}
